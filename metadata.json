@@ -1,0 +1,5 @@
+{
+  "name": "Guía de Desarrollo de Descripción De Puestos",
+  "description": "An intelligent web application to guide users in creating job descriptions based on the Plan Organizacional methodology, featuring hierarchy-based verb filtering, structural enforcement (What/How/Why), and an approval workflow.",
+  "requestFramePermissions": []
+}
